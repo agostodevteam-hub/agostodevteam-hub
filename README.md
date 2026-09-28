@@ -53,6 +53,4 @@ Our featured work will be pinned above and on our [portfolio site](https://agost
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=agostodevteam-hub&show_icons=true&theme=tokyonight&hide_border=true)
-
 </div>
